@@ -1,6 +1,8 @@
 
 <p align="center">
-  <img src="https://github.com/skantus/React-Native-Router-Flux-Redux/blob/master/assets/screenshots/IMG_4686.JPG" width="350"/>
+  <img src="https://github.com/skantus/React-Native-Router-Flux-Redux/blob/master/assets/screenshots/IMG_4686.JPG" width="250"/>
+  <img src="https://github.com/skantus/React-Native-Router-Flux-Redux/blob/master/assets/screenshots/IMG_4687.JPG" width="250"/>
+  <img src="https://github.com/skantus/React-Native-Router-Flux-Redux/blob/master/assets/screenshots/IMG_4688.JPG" width="250"/>
 </p>
 
 
