@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/skantus/React-Native-Router-Flux-Redux/blob/master/assets/screenshots/IMG_4686.JPG" width="300"/>
-  <img src="https://github.com/skantus/React-Native-Router-Flux-Redux/blob/master/assets/screenshots/IMG_4687.JPG" width="300"/>
-   <img src="https://github.com/skantus/React-Native-Router-Flux-Redux/blob/master/assets/screenshots/IMG_4688.JPG" width="300"/>
+  <img src="https://github.com/skantus/React-Native-Router-Flux-Redux/blob/master/assets/screenshots/IMG_4686.JPG" width="250"/>
+  <img src="https://github.com/skantus/React-Native-Router-Flux-Redux/blob/master/assets/screenshots/IMG_4687.JPG" width="250"/>
+   <img src="https://github.com/skantus/React-Native-Router-Flux-Redux/blob/master/assets/screenshots/IMG_4688.JPG" width="250"/>
 </p>
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
