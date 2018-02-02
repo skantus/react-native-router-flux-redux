@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
 import { View, Button, Image, Text } from 'react-native';
 import Icon from 'react-native-vector-icons/Ionicons';
-import { styles } from './home.css';
-
-import { connect } from 'react-redux';
+import { styles } from './styles';
 import { Actions } from 'react-native-router-flux';
 
 export class Home extends React.Component {
@@ -24,6 +22,3 @@ export class Home extends React.Component {
     );
   }
 }
-
-const mapStateToProps = ({ routes }) => ({ routes });
-export default connect(mapStateToProps)(Home);

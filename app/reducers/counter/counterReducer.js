@@ -1,4 +1,4 @@
-import { INCREMENT, DECREMENT } from '../../actions/Counter/counterAction';
+import { INCREMENT, DECREMENT } from '../../actions/counter/actionTypes';
 
 const initialState = {
   counter: 0,
@@ -12,12 +12,11 @@ const counterReducer = (state = initialState, action) => {
         counter: state.counter + 1
       }
     case DECREMENT:
-      return {
-        ...state,
-        counter: state.counter - 1
-      }
-    default:
-      return state;
+    return {
+      ...state,
+      counter: state.counter - 1
+    }
+    default: return state;
   }
 }
 

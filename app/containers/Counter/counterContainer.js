@@ -1,15 +1,15 @@
 import { connect } from 'react-redux';
-
-import { INCREMENT, DECREMENT } from '../../actions/Counter/counterAction';
-import { Counter } from '../../components/Counter/counter';
+import { Counter } from '../../components/counter/counter';
+import { Increment, Decrement } from '../../actions/counter/actions';
 
 const mapStateToProps = state => ({
-  count: state.counterReducer.counter
+  count: state.counterReducer.counter,
+  routes: state.routes
 });
 
-const mapDispatchToProps = dispatch => ({
-  onIncrement: () => dispatch({ type: INCREMENT }),
-  onDecrement: () => dispatch({ type: DECREMENT })
-});
+const mapDispatchToProps = {
+  onIncrement: Increment,
+  onDecrement: Decrement
+};
 
 export default connect(mapStateToProps, mapDispatchToProps)(Counter);

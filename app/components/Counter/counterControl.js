@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { View } from 'react-native';
 import { Button, Text, Icon } from 'native-base';
-import { styles } from './counter.css';
+import { styles } from './styles';
 
 export class CounterControl extends React.Component {
 

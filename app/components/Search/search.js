@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import { View, Button } from 'react-native';
-import { styles } from './search.css';
-
-import { connect } from 'react-redux';
+import { styles } from './styles';
 import { Actions } from 'react-native-router-flux';
 
 export class Search extends React.Component {
@@ -15,6 +13,3 @@ export class Search extends React.Component {
     );
   }
 }
-
-const mapStateToProps = ({ routes }) => ({ routes });
-export default connect(mapStateToProps)(Search);

@@ -1,11 +1,3 @@
-
-<p align="center">
-  <img src="https://github.com/skantus/React-Native-Router-Flux-Redux/blob/master/assets/screenshots/IMG_4686.JPG" width="250"/>
-  <img src="https://github.com/skantus/React-Native-Router-Flux-Redux/blob/master/assets/screenshots/IMG_4687.JPG" width="250"/>
-  <img src="https://github.com/skantus/React-Native-Router-Flux-Redux/blob/master/assets/screenshots/IMG_4688.JPG" width="250"/>
-</p>
-
-
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).

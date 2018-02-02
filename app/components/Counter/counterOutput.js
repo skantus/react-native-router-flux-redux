@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import { View, Text } from 'react-native';
 import { H2 } from 'native-base';
-
-import { styles } from './counter.css';
+import { styles } from './styles';
 
 export class CounterOutput extends React.Component {
 
